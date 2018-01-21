@@ -2,7 +2,7 @@
 {
     public class Tester
     {
-        public void Test(int m1)
+        public void Test(int m1, int m2)
         {
 
         }
